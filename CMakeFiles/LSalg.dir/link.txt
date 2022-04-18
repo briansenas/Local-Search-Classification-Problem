@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -O3 CMakeFiles/LSalg.dir/src/LSalg.cpp.o CMakeFiles/LSalg.dir/src/mytools.cpp.o -o bin/LSalg 

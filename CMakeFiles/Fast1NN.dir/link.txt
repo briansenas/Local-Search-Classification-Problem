@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -O3 CMakeFiles/Fast1NN.dir/src/Fast1NN.cpp.o CMakeFiles/Fast1NN.dir/src/mytools.cpp.o -o bin/Fast1NN 

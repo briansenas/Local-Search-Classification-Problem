@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -O3 CMakeFiles/FastGreedy.dir/src/greedyFast.cpp.o CMakeFiles/FastGreedy.dir/src/mytools.cpp.o -o bin/FastGreedy 
