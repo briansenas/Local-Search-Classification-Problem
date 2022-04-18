@@ -1,4 +1,3 @@
-# ** _Brian Sena Simons 3ºA - A2_ **
 # Práctica 1 - MetaHeurística
 
 ### - Utilize el "cmake CMakeLists.txt && make" para compilar;
