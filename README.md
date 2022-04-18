@@ -1,9 +1,9 @@
 # ** _Brian Sena Simons 3ºA - A2_ **
 # Práctica 1 - MetaHeurística
 
-###- Utilize el "cmake CMakeLists.txt && make" para compilar;
-###- Los algoritmos pueden ser ejecutados utilizando los scripts en ./scripts {Ej. runAll.sh}
-###- Los resultados se guardan en ./results;
+### - Utilize el "cmake CMakeLists.txt && make" para compilar;
+### - Los algoritmos pueden ser ejecutados utilizando los scripts en ./scripts {Ej. runAll.sh}
+### - Los resultados se guardan en ./results;
 
 ## Ejecución individual:
 ./bin/LSalg ./datos/ionosphere.arff {seed} [0-1] {>../results/LSalg\_results.txt}
